@@ -1,7 +1,0 @@
-<suite name="WebTable">
-    <test name="Chrome Browser">
-        <classes>
-            <class name="theinternet.TableWebTest"/>
-        </classes>
-    </test>
-</suite>
