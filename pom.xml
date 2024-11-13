@@ -41,7 +41,7 @@
                 <version>3.5.2</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>webtable-testplan.xml</suiteXmlFile>
+                        <suiteXmlFile>${basedir}/webtable-testplan.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
